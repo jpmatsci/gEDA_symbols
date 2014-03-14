@@ -1,0 +1,112 @@
+v 20110115 2
+L 211 811 211 11 3 0 0 0 -1 -1
+L 211 811 811 411 3 0 0 0 -1 -1
+T 711 811 5 10 0 0 0 0 1
+device=OPAMP
+L 811 411 211 11 3 0 0 0 -1 -1
+L 311 661 311 561 3 0 0 0 -1 -1
+L 261 611 361 611 3 0 0 0 -1 -1
+L 261 211 361 211 3 0 0 0 -1 -1
+P 11 611 211 611 1 0 0
+{
+T 161 661 5 8 1 1 0 6 1
+pinnumber=4
+T 161 561 5 8 0 1 0 8 1
+pinseq=1
+T 261 611 9 8 0 1 0 0 1
+pinlabel=in+
+T 261 611 5 8 0 1 0 2 1
+pintype=in
+}
+P 11 211 211 211 1 0 0
+{
+T 161 261 5 8 1 1 0 6 1
+pinnumber=3
+T 161 161 5 8 0 1 0 8 1
+pinseq=2
+T 261 211 9 8 0 1 0 0 1
+pinlabel=in-
+T 261 211 5 8 0 1 0 2 1
+pintype=in
+}
+P 725 475 925 475 1 0 1
+{
+T 800 500 5 8 1 1 0 0 1
+pinnumber=1
+T 725 425 5 8 0 1 0 2 1
+pinseq=7
+T 675 475 9 8 0 1 0 6 1
+pinlabel=out
+T 675 475 5 8 0 1 0 8 1
+pintype=out
+}
+P 400 675 400 875 1 0 1
+{
+T 425 725 5 8 1 1 0 0 1
+pinnumber=5
+T 450 675 5 8 0 1 0 2 1
+pinseq=3
+T 400 675 9 8 0 1 0 5 1
+pinlabel=V+
+T 400 625 5 8 0 1 0 5 1
+pintype=pwr
+}
+P 400 150 400 -50 1 0 1
+{
+T 425 25 5 8 1 1 0 0 1
+pinnumber=6
+T 450 50 5 8 0 1 0 2 1
+pinseq=4
+T 400 150 9 8 0 1 0 3 1
+pinlabel=V-
+T 400 250 5 8 0 1 0 3 1
+pintype=pwr
+}
+T 711 1211 5 10 0 0 0 0 1
+description=operational amplifier
+T 711 1011 5 10 0 0 0 0 1
+numslots=0
+T 711 1411 5 10 0 0 0 0 1
+symversion=0.1
+P 925 350 725 350 1 0 0
+{
+T 925 350 5 10 0 0 0 0 1
+pintype=unknown
+T 670 345 5 10 0 1 0 6 1
+pinlabel=unknown
+T 775 200 5 10 1 1 0 0 1
+pinnumber=8
+T 925 350 5 10 0 0 0 0 1
+pinseq=8
+}
+P 675 700 675 500 1 0 0
+{
+T 625 200 5 10 0 0 270 0 1
+pintype=unknown
+T 675 445 5 10 0 1 90 6 1
+pinlabel=unknown
+T 650 700 5 10 1 1 180 0 1
+pinnumber=2
+T 625 200 5 10 0 0 270 0 1
+pinseq=0
+}
+P 675 125 675 325 1 0 0
+{
+T 725 625 5 10 0 0 90 0 1
+pintype=unknown
+T 675 380 5 10 0 1 90 0 1
+pinlabel=unknown
+T 550 250 5 10 1 1 180 6 1
+pinnumber=7
+T 725 625 5 10 0 0 90 0 1
+pinseq=0
+}
+T 100 925 8 10 1 1 0 0 1
+device=DRV135
+T 275 375 8 8 1 1 0 0 1
+refdes=U?
+T 625 100 9 10 1 0 0 0 2
++
+
+T 650 425 9 10 1 0 0 0 1
+-

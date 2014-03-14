@@ -1,0 +1,77 @@
+v 20110115 2
+L 100 400 100 0 3 0 0 0 -1 -1
+L 100 0 200 0 3 0 0 0 -1 -1
+L 200 400 200 0 3 0 0 0 -1 -1
+L 200 400 100 400 3 0 0 0 -1 -1
+P 0 300 100 300 1 0 0
+{
+T 0 300 5 10 0 0 0 0 1
+pintype=unknown
+T 0 300 5 10 0 0 0 0 1
+pinseq=1
+T 0 300 5 10 0 1 0 0 1
+pinnumber=1
+T 0 300 5 10 0 1 0 0 1
+pinlabel=x1
+}
+P 0 200 100 200 1 0 0
+{
+T 0 200 5 10 0 0 0 0 1
+pintype=unknown
+T 0 200 5 10 0 0 0 0 1
+pinseq=0
+T 0 200 5 10 0 1 0 0 1
+pinnumber=2
+T 0 200 5 10 0 1 0 0 1
+pinlabel=x2
+}
+P 0 100 100 100 1 0 0
+{
+T 0 100 5 10 0 0 0 0 1
+pintype=unknown
+T 0 100 5 10 0 0 0 0 1
+pinseq=0
+T 0 100 5 10 0 1 0 0 1
+pinnumber=3
+T 0 100 5 10 0 1 0 0 1
+pinlabel=x3
+}
+P 300 100 200 100 1 0 0
+{
+T 300 100 5 10 0 0 0 0 1
+pintype=unknown
+T 295 145 5 10 0 1 0 0 1
+pinnumber=6
+T 300 100 5 10 0 0 0 0 1
+pinseq=0
+T 300 100 5 10 0 1 0 0 1
+pinlabel=y3
+}
+P 300 200 200 200 1 0 0
+{
+T 300 200 5 10 0 0 0 0 1
+pintype=unknown
+T 295 245 5 10 0 1 0 0 1
+pinnumber=5
+T 300 200 5 10 0 0 0 0 1
+pinseq=0
+T 300 200 5 10 0 1 0 0 1
+pinlabel=y2
+}
+P 300 300 200 300 1 0 0
+{
+T 300 300 5 10 0 0 0 0 1
+pintype=unknown
+T 295 345 5 10 0 1 0 0 1
+pinnumber=4
+T 300 300 5 10 0 0 0 0 1
+pinseq=0
+T 300 300 5 10 0 1 0 0 1
+pinlabel=y1
+}
+T -400 400 8 10 0 1 0 0 1
+device=3-wire jumper
+T 100 500 8 10 1 1 0 0 1
+refdes=J?
+T 0 700 8 10 1 1 0 0 1
+device=3wJ

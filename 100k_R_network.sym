@@ -1,0 +1,182 @@
+v 20110115 2
+B 0 200 3000 1000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 400 1400 400 1200 1 0 0
+{
+T 400 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 400 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 405 1150 5 10 1 1 180 0 1
+pinnumber=1
+T 400 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 700 1400 700 1200 1 0 0
+{
+T 700 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 700 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 705 1150 5 10 1 1 180 0 1
+pinnumber=2
+T 700 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1000 1400 1000 1200 1 0 0
+{
+T 1000 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 1000 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 1005 1150 5 10 1 1 180 0 1
+pinnumber=3
+T 1000 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1300 1400 1300 1200 1 0 0
+{
+T 1300 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 1300 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 1305 1150 5 10 1 1 180 0 1
+pinnumber=4
+T 1300 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1600 1400 1600 1200 1 0 0
+{
+T 1600 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 1600 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 1605 1150 5 10 1 1 180 0 1
+pinnumber=5
+T 1600 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1900 1400 1900 1200 1 0 0
+{
+T 1900 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 1900 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 1905 1150 5 10 1 1 180 0 1
+pinnumber=6
+T 1900 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2200 1400 2200 1200 1 0 0
+{
+T 2200 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 2200 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 2205 1150 5 10 1 1 180 0 1
+pinnumber=7
+T 2200 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2500 1400 2500 1200 1 0 0
+{
+T 2500 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 2500 1145 5 10 0 1 90 6 1
+pinlabel=pas
+T 2505 1150 5 10 1 1 180 0 1
+pinnumber=8
+T 2500 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2500 0 2500 200 1 0 0
+{
+T 2500 0 5 10 0 0 180 0 1
+pintype=unknown
+T 2500 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 2395 350 5 10 1 1 180 6 1
+pinnumber=16
+T 2500 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 2200 0 2200 200 1 0 0
+{
+T 2200 0 5 10 0 0 180 0 1
+pintype=unknown
+T 2200 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 2095 350 5 10 1 1 180 6 1
+pinnumber=15
+T 2200 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1900 0 1900 200 1 0 0
+{
+T 1900 0 5 10 0 0 180 0 1
+pintype=unknown
+T 1900 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 1795 350 5 10 1 1 180 6 1
+pinnumber=14
+T 1900 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1600 0 1600 200 1 0 0
+{
+T 1600 0 5 10 0 0 180 0 1
+pintype=unknown
+T 1600 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 1495 350 5 10 1 1 180 6 1
+pinnumber=13
+T 1600 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1300 0 1300 200 1 0 0
+{
+T 1300 0 5 10 0 0 180 0 1
+pintype=unknown
+T 1300 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 1195 350 5 10 1 1 180 6 1
+pinnumber=12
+T 1300 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1000 0 1000 200 1 0 0
+{
+T 1000 0 5 10 0 0 180 0 1
+pintype=unknown
+T 1000 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 895 350 5 10 1 1 180 6 1
+pinnumber=11
+T 1000 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 700 0 700 200 1 0 0
+{
+T 700 0 5 10 0 0 180 0 1
+pintype=unknown
+T 700 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 545 350 5 10 1 1 180 6 1
+pinnumber=10
+T 700 0 5 10 0 0 180 0 1
+pinseq=0
+}
+P 400 0 400 200 1 0 0
+{
+T 400 0 5 10 0 0 180 0 1
+pintype=unknown
+T 400 255 5 10 0 1 90 0 1
+pinlabel=pas
+T 295 350 5 10 1 1 180 6 1
+pinnumber=9
+T 400 0 5 10 0 0 180 0 1
+pinseq=0
+}
+T 2000 700 8 10 1 1 0 0 1
+refdes=U?
+T 450 700 8 10 1 1 0 0 1
+device=767163104GP

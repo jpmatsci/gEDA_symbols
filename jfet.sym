@@ -1,0 +1,46 @@
+v 20110115 2
+T 300 500 5 10 0 0 0 0 1
+device=PMOS_TRANSISTOR
+T 300 500 5 10 0 0 0 0 1
+numslots=0
+T 300 500 5 10 0 0 0 0 1
+description=generic P channel MOS transistor (enhancement type)
+L 250 600 0 600 3 0 0 0 -1 -1
+L 250 200 0 200 3 0 0 0 -1 -1
+P 500 200 300 200 1 0 0
+{
+T 395 245 5 10 0 1 0 0 1
+pinnumber=G
+T 245 195 9 10 0 1 0 6 1
+pinlabel=G
+T 500 300 5 10 0 0 0 6 1
+pinseq=2
+T 500 300 5 10 0 0 0 6 1
+pintype=pas
+}
+P 0 600 0 800 1 0 1
+{
+T -50 695 5 10 0 1 90 0 1
+pinnumber=D
+T 0 545 9 10 0 1 90 6 1
+pinlabel=D
+T 200 700 5 10 0 0 0 6 1
+pinseq=1
+T 200 700 5 10 0 0 0 6 1
+pintype=pas
+}
+P 0 200 0 0 1 0 1
+{
+T -50 105 5 10 0 1 90 6 1
+pinnumber=S
+T 0 255 9 10 0 1 90 0 1
+pinlabel=S
+T 200 0 5 10 0 0 0 6 1
+pinseq=3
+T 200 0 5 10 0 0 0 6 1
+pintype=pas
+}
+T 600 700 8 10 1 1 0 6 1
+refdes=Q?
+L 250 675 250 125 3 0 0 0 -1 -1
+L 300 600 300 200 3 0 0 0 -1 -1

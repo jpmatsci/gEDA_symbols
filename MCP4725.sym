@@ -1,0 +1,90 @@
+v 20110115 2
+B 200 0 800 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 600 200 600 1 0 0
+{
+T 0 600 5 10 0 0 0 0 1
+pintype=unknown
+T 255 595 5 10 0 1 0 0 1
+pinlabel=unknown
+T 205 645 5 10 1 1 0 6 1
+pinnumber=1
+T 0 600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 400 200 400 1 0 0
+{
+T 0 400 5 10 0 0 0 0 1
+pintype=unknown
+T 255 395 5 10 0 1 0 0 1
+pinlabel=unknown
+T 205 445 5 10 1 1 0 6 1
+pinnumber=2
+T 0 400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 200 200 200 1 0 0
+{
+T 0 200 5 10 0 0 0 0 1
+pintype=unknown
+T 255 195 5 10 0 1 0 0 1
+pinlabel=unknown
+T 205 245 5 10 1 1 0 6 1
+pinnumber=3
+T 0 200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1200 600 1000 600 1 0 0
+{
+T 1200 600 5 10 0 0 0 6 1
+pintype=unknown
+T 945 595 5 10 0 1 0 6 1
+pinlabel=unknown
+T 995 645 5 10 1 1 0 0 1
+pinnumber=6
+T 1200 600 5 10 0 0 0 6 1
+pinseq=0
+}
+P 1200 400 1000 400 1 0 0
+{
+T 1200 400 5 10 0 0 0 6 1
+pintype=unknown
+T 945 395 5 10 0 1 0 6 1
+pinlabel=unknown
+T 995 445 5 10 1 1 0 0 1
+pinnumber=5
+T 1200 400 5 10 0 0 0 6 1
+pinseq=0
+}
+P 1200 200 1000 200 1 0 0
+{
+T 1200 200 5 10 0 0 0 6 1
+pintype=unknown
+T 945 195 5 10 0 1 0 6 1
+pinlabel=unknown
+T 995 245 5 10 1 1 0 0 1
+pinnumber=4
+T 1200 200 5 10 0 0 0 6 1
+pinseq=0
+}
+T 500 850 8 10 1 1 0 0 1
+refdes=U?
+T 650 1300 8 10 0 1 0 0 1
+value=SN74VC1G3157
+T 550 1100 8 10 0 1 0 0 1
+device=switch
+T 200 600 9 10 1 0 0 0 1
+Vo
+T 200 400 9 10 1 0 0 0 1
+Vss
+T 200 200 9 10 1 0 0 0 1
+Vdd
+T 750 600 9 10 1 0 0 0 1
+Ao
+T 650 400 9 10 1 0 0 0 1
+SCL
+T 600 200 9 10 1 0 0 0 1
+SDA
+T 600 1250 8 10 0 1 0 0 1
+device=DAC
+T 200 1050 8 10 1 1 0 0 1
+value=MCP4725
